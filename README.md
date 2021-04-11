@@ -18,7 +18,7 @@ This is a detailed survey analysis of the producer and consumer both being mysel
 * Providing proper spaces after every line.
 * Making it more readable for the user.
   
-## **Improvements madde so far:**
+## **Improvements made so far:**
 * Using of Proper Spaces and intents.
 * Using of more fonts like **bold** and *italic*.
 * Providing proper spaces after every line.
