@@ -6,7 +6,8 @@ This is a detailed survey analysis of the producer and consumer both being mysel
 ## SERVICE ANALYSIS CHART
 |Category |Descrition|
 |---|---|
-|Best liked readme.md on github |https://github.com/othneildrew/Best-README-Template#readme     https://github.com/annu12340|
+|Best liked readme.md on github |https://github.com/KhushbooGoel01            https://github.com/othneildrew/Best-README-Template#readme     https://github.com/annu12340
+|
 |My readme.md on github |https://github.com/Aayon-Mukherjee/Passion/blob/c3e77cf8d6491aa2412bea7388a58cd152aec097/Passion.md          https://github.com/Aayon-Mukherjee/BERGER_PAINTS_en/blob/main/Berger_en.md
 |Status of Self created |Average|
 |Description of Self Analysis | Being my first repo on github, I didn't had any idea or experience in the field. I tried my level best for providing a nice story about my passion but after the guidance of my sir Mr. Varad Gupta, I came to realize that using of spaces and indentation plays a vital role in a project, so that a user can enjoy reading the story and also it makes it look more professional. The mistakes in my previous project will not be repeated again as I came to know all the flaws about it like capitalization of initial letters, using **bold** and *italic* fonts wherever required, providing proper spaces after every line and making the text more readable.
@@ -19,13 +20,17 @@ This is a detailed survey analysis of the producer and consumer both being mysel
 * Making it more readable for the user.
   
 ## **Improvements made so far:**
-* Using of Proper Spaces and intents.
+* Using of Proper Spaces and indents.
 * Using of more fonts like **bold** and *italic*.
 * Providing proper spaces after every line.
 * Making it more readable for the user.
 * Adding gifs.
 * Provide an extra language for the user.
-* More informative 
+* More informative and interactive.
+
+# **MY UPDATED PROJECTS:**
+* [OTHER SERVICE ANALYSIS](https://github.com/Aayon-Mukherjee/BERGER_PAINTS_en/blob/main/Berger_en.md)
+* [MY PASSION](https://github.com/Aayon-Mukherjee/Passion/blob/main/Passion.md)
 ---
 ---
 *Thank You,*
